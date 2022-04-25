@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "425526168589",
+    "project_id": "buyse-3cb55",
+    "storage_bucket": "buyse-3cb55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425526168589:android:52ed0c4fec8102f83f1944",
+        "android_client_info": {
+          "package_name": "com.example.buyse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425526168589-ktu2jm87j7ihb8g5pkmtt3pg7t0s76pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyElQCinl0NvefQoMVVAF1eZ2_kVc4uzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425526168589-ktu2jm87j7ihb8g5pkmtt3pg7t0s76pn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

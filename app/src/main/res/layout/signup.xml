@@ -79,10 +79,11 @@
             android:id="@+id/button2"
             android:layout_width="320dp"
             android:layout_height="50dp"
-            android:background="#00F3CB"
             android:layout_gravity="center"
             android:layout_marginBottom="20dp"
+            android:background="#00F3CB"
             android:fontFamily="@font/robotobold"
+            android:gravity="center"
             android:text="Sign Up"
             android:textSize="20dp" />
 
@@ -130,7 +131,7 @@
                 android:textSize="12dp" />
 
             <TextView
-                android:id="@+id/textView1"
+                android:id="@+id/LoginRedirect"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/robotobold"
